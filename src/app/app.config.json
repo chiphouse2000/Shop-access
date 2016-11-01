@@ -1,0 +1,15 @@
+{
+	"appname": "Shop access",
+	"scope": "FullAccess",
+	"clientid": "985C0B89-8133-48EF-AEBB-9C3788595AB5",
+	"buyerid": "55",
+	"catalogid": "55",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
